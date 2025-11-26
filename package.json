@@ -1,0 +1,27 @@
+﻿{
+  "name": "zenwhats",
+  "version": "1.0.0",
+  "description": "Um projeto open source para integraÃ§Ã£o e automaÃ§Ã£o com WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AureoManzanoJr/ZenWhats.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "automation",
+    "integration",
+    "zenwhats"
+  ],
+  "author": "Aureo Manzano Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AureoManzanoJr/ZenWhats/issues"
+  },
+  "homepage": "https://github.com/AureoManzanoJr/ZenWhats#readme"
+}
